@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-color: #E8E46E;
+  font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
+  margin: 0;
+  width: 128rem;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 0.5rem;
+  width: 8rem;
+  margin-top: 2.1875rem;
+  margin-bottom: 2.1875rem;
+  border-color: #F3C583;
+}
+
+h1 {
+  font-size: 4rem;
+  display: inline;
+}
+
+
+.intro {
+  width: 128rem;
+  height: 9rem;
+}
+
+.maincontent {
+  color: #FF8882;
+  width: 128rem;
+  height: 38rem;
+
+}
+
+.sofa {
+  width: 128.125rem;
+  height: 100rem;
+  display: inline;
+}

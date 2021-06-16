@@ -1,0 +1,43 @@
+body {
+  background-color: #e6c4c0;
+
+}
+
+h2 {
+  color: #b7657b;
+
+}
+
+body {
+  margin-top: 50px;
+  margin-left: 50px;
+
+}
+
+hr {
+  height: 50px;
+  width: 20%;
+  border-style: none;
+  border-bottom-style: dotted;
+  border-bottom-width: 10px;
+  border-bottom-color: #b7657b;
+
+}
+
+img {
+  height: 110px;
+  width: 110px;
+
+}
+
+
+tr, td {
+  padding: 50px;
+
+}
+
+li {
+  padding: 15px;
+  margin-left: 20px;
+
+}

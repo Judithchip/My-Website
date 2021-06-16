@@ -1,0 +1,164 @@
+body {
+  background-color: #e6c4c0;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+  font-weight: normal;
+  margin: 70px auto 0 auto;
+  color: #962d2d;
+}
+
+h2 {
+  color: #962d2d;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #962d2d;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #ff449f;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+
+hr {
+  margin-top: 2.1875rem;
+  margin-bottom: 2.1875rem;
+  border-style: none;
+  border-bottom-style: dotted;
+  border-width: 0.4375rem;
+  border-bottom-color: #962d2d;
+  width: 8rem;
+}
+
+.Yoga-Pose1 {
+  height: 2.6rem;
+  width: 2.6rem;
+  position: absolute;
+  right: 75rem;
+  top: 18rem;
+}
+
+.Yoga-Pose2 {
+  height: 2.6rem;
+  width: 2.6rem;
+  position: absolute;
+  right: 70rem;
+  top: 18rem;
+}
+
+.Yoga-Pose3 {
+  height: 2.6rem;
+  width: 2.6rem;
+  ;
+  position: absolute;
+  right: 80rem;
+  top: 18rem;
+}
+
+.dog1 {
+  height: 2.6rem;
+  width: 2.6rem;
+  position: absolute;
+  right: 65rem;
+  top: 18rem;
+}
+
+.Sauna {
+  height: 2.6rem;
+  width: 2.6rem;
+  position: absolute;
+  right: 60rem;
+  top: 18rem;
+}
+
+.movie {
+  height: 2.6rem;
+  width: 2.6rem;
+  position: absolute;
+  right: 55rem;
+  top: 18rem;
+}
+
+.garden {
+  height: 2.6rem;
+  width: 2.6rem;
+  position: absolute;
+  right: 50rem;
+  top: 18rem;
+}
+
+.art {
+  height: 2.6rem;
+  width: 2.6rem;
+  position: absolute;
+  right: 45rem;
+  top: 18rem;
+}
+
+.footer-link {
+  background-color: #ca8a8b;
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+  width: 128rem;
+  height: 31.75rem;
+}
+
+.footer-link1 {
+  background: #f4a9a8;
+background-image: -webkit-linear-gradient(top, #f4a9a8, #f4a9a8);
+background-image: -moz-linear-gradient(top, #f4a9a8, #f4a9a8);
+background-image: -ms-linear-gradient(top, #f4a9a8, #f4a9a8);
+background-image: -o-linear-gradient(top, #f4a9a8, #f4a9a8);
+background-image: linear-gradient(to bottom, #f4a9a8, #f4a9a8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #962d2d;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link1:hover {
+  background: #e6c4c0;
+  background-image: -webkit-linear-gradient(top, #e6c4c0;, #e6c4c0;);
+  background-image: -moz-linear-gradient(top, #e6c4c0;, #e6c4c0;);
+  background-image: -ms-linear-gradient(top, #e6c4c0;, #e6c4c0;);
+  background-image: -o-linear-gradient(top, #e6c4c0;, #e6c4c0;);
+  background-image: linear-gradient(to bottom, #e6c4c0;, #e6c4c0;);
+  text-decoration: none;
+ }
+
+
+.footer-link2 {
+  display: inline;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+.copyright {
+    line-height: 2;
+    font-size: 0.75rem;
+  }
