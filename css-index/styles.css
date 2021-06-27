@@ -2,7 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  background-color: #f6dfeb;
+  background-color: #F9F3F3;
   width: 128rem;
 }
 
@@ -20,27 +20,26 @@ hr {
   border-bottom-style: dotted;
   border-width: 0.5rem;
   width: 8rem;
-  border-color: #8f4068;
+  border-color: #F25287;
 }
 
 h1 {
   font-family: 'Sacramento', cursive;
   font-size: 4.625rem;
   font-weight: normal;
-  margin: 90px auto 0 auto;
-  color: #66BFBF;
+  color: #F25287;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
   line-height: 2;
   margin: 0;
-  color: #66BFBF;
+  color: #F25287;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #b34180;
+  color: #F25287;
 }
 
 h4 {
@@ -55,41 +54,39 @@ table {
 
 
 .top-container {
-  background-color: #d9ecf2;
   position: relative;
+  top: 2rem;
   width: 128rem;
-  height: 37.5rem;
-  padding-top: 0.0625rem;
+  height: 27rem;
 }
 
+
 .middle-container {
-  background-color: #f6dfeb;
+  position: relative;
+  background-color: #F9F3F3;
   width: 128rem;
 }
 
 .bottom-container {
-  background-color: #e4bad4;
+  position: relative;
+  background-color: #DDDDDD;
   margin-bottom: 0;
   height: 23.5rem;
   width: 128rem;
 }
 
-.top-cloud {
-  position: absolute;
-  right: 35.875rem;
-  top: 3.125rem;
+
+.forest {
+  width: 60rem;
+  height: 22rem;
 }
 
-.bottom-cloud {
+.pig {
+  height: 2.6rem;
+  width: 2.6rem;
   position: absolute;
-  bottom: 16.88rem;
-  left: 36.875rem;
-}
-
-.mountain {
-  position: absolute;
-  left: 46.875rem;
-  bottom: 0;
+  right: 48rem;
+  top: 17rem;
 }
 
 .skill-row {
@@ -99,22 +96,23 @@ table {
 
 .skill-row-table {
   width: 70%;
-  margin: 70px auto 100px auto;
-  color: #b34180;
+  margin: 70px auto 35px auto;
+  color: #F25287;
   font-size: 1.125rem;
 }
 
 .Profile-Picture {
+  position: absolute;
   height: 8.875rem;
   width: 8.875rem;
-  margin-left: 3rem;
-  margin-right: 2.5rem;
+  right: 37rem;
+  top: 1.5rem;
 
 }
 
 .laptop {
-  height: 3.125rem;
-  width: 3.125rem;
+  height: 4.7rem;
+  width: 4.7rem;
 }
 
 .acrobatic {
@@ -123,17 +121,17 @@ table {
 }
 
 .juggler {
-  height: 3.125rem;
-  width: 3.125rem;
+  height: 4.7rem;
+  width: 4.7rem;
 }
 
 .footer-link1 {
-  background: #b34180;
+  background: #F25287;
   background-image: -webkit-linear-gradient(top, #e89de4, #e89de4);
   background-image: -moz-linear-gradient(top, #e89de4, #e89de4);
   background-image: -ms-linear-gradient(top, #e89de4, #e89de4);
   background-image: -o-linear-gradient(top, #e89de4, #e89de4);
-  background-image: linear-gradient(to bottom, #b34180, #b34180);
+  background-image: linear-gradient(to bottom, #F25287, #F25287);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
@@ -146,12 +144,12 @@ table {
 }
 
 .footer-link1:hover {
-  background: #db64b5;
- background-image: -webkit-linear-gradient(top, #db64b5, #db64b5);
- background-image: -moz-linear-gradient(top, #db64b5, #db64b5);
- background-image: -ms-linear-gradient(top, #db64b5, #db64b5);
- background-image: -o-linear-gradient(top, #db64b5, #db64b5);
- background-image: linear-gradient(to bottom, #db64b5, #db64b5);
+  background: #867AE9;
+ background-image: -webkit-linear-gradient(top, #867AE9, #867AE9);
+ background-image: -moz-linear-gradient(top, #867AE9, #867AE9);
+ background-image: -ms-linear-gradient(top, #867AE9, #867AE9);
+ background-image: -o-linear-gradient(top, #867AE9, #867AE9);
+ background-image: linear-gradient(to bottom, #867AE9, #867AE9);
  text-decoration: none;
 }
 
@@ -159,6 +157,7 @@ table {
 .footer-link2 {
   display: inline;
   font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
   font-weight: normal;
   margin: 10px 20px;
   text-decoration: none;
